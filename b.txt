@@ -1,0 +1,2 @@
+First line of b.txt
+Second line of b.txt
